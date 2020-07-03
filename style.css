@@ -13,3 +13,7 @@
   background-size: cover;
   background-position: center;
 }
+.carousel-item {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
