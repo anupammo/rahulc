@@ -1,0 +1,15 @@
+#slidebg1 {
+  background-image: url('https://image.freepik.com/free-vector/city-street-with-houses-road-cars_107791-2592.jpg');
+  background-size: cover;
+  background-position: center;
+}
+#slidebg2 {
+  background-image: url('https://image.freepik.com/free-vector/buildings-hotels-miami-night-summer-time_107791-2449.jpg');
+  background-size: cover;
+  background-position: center;
+}
+#slidebg3 {
+  background-image: url('https://image.freepik.com/free-vector/boiler-water-heater-wall-connected-with-radiator_107791-2768.jpg');
+  background-size: cover;
+  background-position: center;
+}
