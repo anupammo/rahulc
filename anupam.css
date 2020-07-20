@@ -23,6 +23,10 @@ h1 strong {
     font-weight: 900;
     text-shadow: #000 0px 0px 5px;
 }
+h2 strong {
+    font-weight: 900;
+    text-shadow: #000 0px 0px 5px;
+}
 #prof-pic {    
     transition: 2s;
 }
