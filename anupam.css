@@ -9,6 +9,13 @@
     animation-direction: alternate-reverse;
 
 }
+#slide-card {
+    margin: 20px;
+    background: #fff;
+    padding: 15px 25px;
+    border-radius: 10px;
+    box-shadow: #dedede 0px 0px 10px;
+}
 @keyframes example {
     from {
         filter: grayscale(0%);
