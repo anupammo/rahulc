@@ -12,9 +12,10 @@
 #slide-card {
     margin: 20px;
     background: #fff;
-    padding: 15px 25px;
+    padding: 5px 30px;
     border-radius: 10px;
-    box-shadow: #dedede 0px 0px 10px;
+    border: solid 2px #dcdcdc;
+    box-shadow: #dedede 0px 0px 15px;
 }
 @keyframes example {
     from {
